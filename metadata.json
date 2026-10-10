@@ -1,0 +1,6 @@
+{
+  "name": "OTT Play - Streaming & Live TV Platform",
+  "description": "Premium on-demand movies, web series, and Live TV streaming mobile platform by JS Private Limited with comprehensive cross-platform architecture, interactive player, and securitized admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
